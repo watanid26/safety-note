@@ -1,0 +1,15 @@
+node_modules
+.next
+.env*
+!.env.example
+*.pem
+*.key
+*.p8
+*.p12
+*.jks
+*service-account*.json
+google-services.json
+GoogleService-Info.plist
+*.tsbuildinfo
+.vercel
+.local-uploads
